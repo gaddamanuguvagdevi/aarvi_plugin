@@ -26,4 +26,4 @@ List of "aarvi" subcommands, type the subcommand to invoke it:
 
 # Sample Execution
 
-![](aarvi_plugin/Screenshot from 2021-12-11 17-08-04.png)
+![](./Screenshot from 2021-12-11 17-08-04.png)
