@@ -23,6 +23,7 @@ List of "aarvi" subcommands, type the subcommand to invoke it:
 
 * help -- Aarvi commands usage
 * start -- Start debugged program and stop at most convenient entry
+* execution_sample.mp4 for video
 
 # Sample Execution
 
