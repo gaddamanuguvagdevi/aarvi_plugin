@@ -26,4 +26,4 @@ List of "aarvi" subcommands, type the subcommand to invoke it:
 
 # Sample Execution
 
-![](Screenshot from 2021-12-11 17-08-04.png)
+https://github.com/gaddamanuguvagdevi/aarvi_plugin/blob/main/Screenshot%20from%202021-12-11%2017-08-04.png
