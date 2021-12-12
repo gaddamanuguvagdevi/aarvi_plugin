@@ -26,4 +26,6 @@ List of "aarvi" subcommands, type the subcommand to invoke it:
 
 # Sample Execution
 
-![](/home/vagdevi/Downloads/Screenshot from 2021-12-11 17-08-04.png)
+x-special/nautilus-clipboard
+copy
+file:///home/vagdevi/Downloads/Screenshot%20from%202021-12-11%2017-08-04.png
